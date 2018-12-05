@@ -1,1 +1,1 @@
-This is Sample to build automatically in jenkins
+This is Sample to build automatically in jenkins app
